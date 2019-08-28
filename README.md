@@ -1,4 +1,1 @@
-# Simple Facial Recognition
-
-Install dependencies - npm install  
-Start - npm start  
+# Simple Face Recognition
